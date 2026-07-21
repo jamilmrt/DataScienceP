@@ -1,0 +1,47 @@
+[
+    {
+        "username": "tech_enthusiast99",
+        "no_of_posts": "142 posts",
+        "no_of_followers": "1.4k followers",
+        "no_of_following": "530 following",
+        "name": "Alex Rivera (AI Researcher)",
+        "typeof_page": "\"Exploring the future of LLMs. \ud83d\ude80 | Coffee lover\"",
+        "bio": ""
+    },
+    {
+        "username": "pixel_architect",
+        "no_of_posts": "583 posts",
+        "no_of_followers": "45.8k followers",
+        "no_of_following": "812 following",
+        "name": "Sarah Chen (Design Director)",
+        "typeof_page": "\"Building next-gen UI/UX @ FutureStudio.\"",
+        "bio": ""
+    },
+    {
+        "username": "data_node",
+        "no_of_posts": "64 posts",
+        "no_of_followers": "310 followers",
+        "no_of_following": "290 following",
+        "name": "Marcus Vance (Data Scientist)",
+        "typeof_page": "\"Python | PyTorch | Data Science. Opinions are my own.\"",
+        "bio": ""
+    },
+    {
+        "username": "quantum_coding",
+        "no_of_posts": "119 posts",
+        "no_of_followers": "2.8k followers",
+        "no_of_following": "415 following",
+        "name": "Elena Rostova (Physicist)",
+        "typeof_page": "\"PhD Candidate in Quantum Computing. Living in Berlin \ud83c\udde9\ud83c\uddea\"",
+        "bio": ""
+    },
+    {
+        "username": "ai_frontier",
+        "no_of_posts": "2.4k posts",
+        "no_of_followers": "125k followers",
+        "no_of_following": "15 following",
+        "name": "Global AI Insights (Media),",
+        "typeof_page": "\"Curating the latest breakthroughs in Artificial Intelligence.\"",
+        "bio": ""
+    }
+]
