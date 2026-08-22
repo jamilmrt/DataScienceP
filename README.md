@@ -38,6 +38,7 @@ This repository contains a collection of notebooks and sample JSON data files us
    - numpy
    - matplotlib
    - seaborn
+   - Scikit-Learn
 4. Open the notebooks in order and run the cells step by step
 
 ## Recommended Workflow
@@ -53,7 +54,7 @@ This project is intentionally simple and educational. It is designed for practic
 
 ## Future Improvements
 
-You can extend this project by:
+Extend this project by:
 
 - Adding more visualization steps
 - Performing deeper exploratory data analysis
