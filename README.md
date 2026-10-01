@@ -10,6 +10,8 @@ The repository is intended for learning, experimentation, and portfolio developm
 - Pandas data manipulation, cleaning, transformation, grouping, and SQL workflows
 - Matplotlib and Seaborn visualization techniques
 - Web scraping with Beautiful Soup
+- Introductory TensorFlow, MNIST, and large-language-model exercises
+- Web development practice for data scientists
 - Exploratory data analysis and missing-data practice
 - Scikit-learn preprocessing, pipelines, feature scaling, and model training
 - Beginner machine learning projects using datasets such as Iris, Titanic, housing, placement, and crime data
@@ -19,24 +21,33 @@ The repository is intended for learning, experimentation, and portfolio developm
 
 ```text
 CWHDS/
-├── 01Introduction.ipynb              # Introduction to the repository
-├── 02data_Cleaning.ipynb              # Data cleaning practice
-├── 03_people_you_may_know.ipynb       # Recommendation-style exercise
-├── 04_pages_you_might_like.ipynb      # Recommendation-style exercise
-├── Handling Missing Data.ipynb        # Missing-data practice
-├── prk.ipynb                          # Additional practice notebook
+├── 01Introduction.ipynb
+├── 02data_Cleaning.ipynb
+├── 03_people_you_may_know.ipynb
+├── 04_pages_you_might_like.ipynb
+├── Handling Missing Data.ipynb
+├── prk.ipynb
 ├── 100_Days_ML/                       # Exploratory data analysis exercises
 ├── CoderOfBangalore/                  # Coder of Bangalore analysis
 ├── Data_Collection_Technique/         # Web scraping and HTML examples
 ├── Data_Visualisation/                # Matplotlib and Seaborn notebooks
-├── Matplotlib/                        # Matplotlib practice materials
+├── LLMs/                              # Empty directory
+├── Matplotlib/                        # Empty directory
 ├── Messy Crime Dataset/               # Crime data cleaning and analysis
 ├── Numpy/                             # NumPy fundamentals
 ├── Pandas/                            # Pandas analysis and data cleaning
-├── Scikit_Learn/                      # Machine learning and preprocessing projects
-├── ScikitLearn/                       # Additional preprocessing and pipeline practice
-├── *.json, *.txt                      # Sample structured and text data
-└── *.csv                              # Practice datasets
+├── Scikit_Learn/                      # Scikit-learn practice and projects
+├── ScikitLearn/                       # Additional preprocessing and pipelines
+├── Tensorflow/                        # TensorFlow, MNIST, and LLM practice
+├── Web_Development_For_Data_Scientist/ # Web development examples
+├── cleaned_data2.json, data.json,
+│   data2.json, massi_data.json,
+│   openAI.json                        # Root-level JSON data
+├── env_check_output.txt, initialdata.txt,
+│   openAI.txt                         # Root-level text files
+├── messy_customer_sales_data.csv,
+│   Scikit_Learndata_science_job.csv   # Root-level practice datasets
+└── README.md
 ```
 
 ### Directory Highlights
@@ -49,6 +60,9 @@ CWHDS/
 | `Data_Collection_Technique/` | HTML parsing and Beautiful Soup web scraping |
 | `Scikit_Learn/` | Imputation, categorical data, feature scaling, pipelines, and ML projects |
 | `ScikitLearn/` | Additional transformers, scaling methods, pipelines, and perceptron exercises |
+| `Tensorflow/` | MNIST exploration, a TensorFlow neural network, and introductory LLM exercises |
+| `Web_Development_For_Data_Scientist/` | Web development examples, including Flask, forms, and templates |
+| `LLMs/` and `Matplotlib/` | Present but currently empty directories |
 | `Messy Crime Dataset/` | Cleaning and exploring incident-level crime data |
 | `100_Days_ML/` | Univariate, bivariate, and multivariate exploratory analysis |
 

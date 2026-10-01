@@ -1,0 +1,7 @@
+python 3.13.9
+exe C:\Users\FDRA\Documents\DATA SCIENCE\CWHDS\.venv\Scripts\python.exe
+numpy 2.5.1
+pandas 3.0.5
+sklearn MISSING (No module named 'sklearn')
+matplotlib MISSING (No module named 'matplotlib')
+joblib MISSING (No module named 'joblib')

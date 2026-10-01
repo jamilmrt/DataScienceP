@@ -1,0 +1,26 @@
+def add(a, b):
+    return a + b
+
+def greet(name):
+    print("hello", name)
+
+for i in range(5):
+    print(i)
+
+if x > 0:
+    print("positive")
+else:
+    print("negative")
+
+numbers = [1, 2, 3, 4]
+total = 0
+for n in numbers:
+    total = total + n
+print(total)
+
+def square(n):
+    return n * n
+
+x = 10
+y = 20
+print(x + y)
