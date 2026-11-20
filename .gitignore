@@ -1,3 +1,8 @@
 htmls
 .venv
 .ipynb_checkpoints
+nodemodules
+.idea
+.venv
+.vscode
+.ipynb_checkpoints

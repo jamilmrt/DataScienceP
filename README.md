@@ -1,4 +1,16 @@
-﻿# CWHDS: Data Science Learning Repository
+﻿<!-- $$\colorbox{#1B85A6}{\color{white} CWHDS —  \space Data Science  \space Learning Repository}$$ -->
+<div align="center">
+
+# CWHDS — Data Science Learning Repository
+
+**Hands-on notebooks and projects covering Python, data analysis, visualization, and machine learning**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+</div>
 
 CWHDS is a hands-on Python data science repository containing Jupyter notebooks, practice datasets, and small scripts. The material progresses from Python data handling and cleaning to visualization, feature engineering, machine learning, and introductory web scraping.
 
